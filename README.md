@@ -1,0 +1,1 @@
+This small project shows an implementation of linear regression. Data from Kaggle dataset was scaled using StandardScaler. KNeighborsRegressor, RandomForestRegressor, GradientBoostingRegressor models were used to compare results. Simple neural network was created using PyTorch.
